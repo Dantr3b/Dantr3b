@@ -61,17 +61,21 @@
 ---
 
 ## 📌 Projets
-> 🚧 En cours de construction – bientôt plus de projets visibles !
 
-- 🔗 **Applications Web Full-Stack**
-- 🔗 **APIs REST & Backend**
-- 🔗 **Projets orientés performance & données**
+### 🏎️ Funkart
+**Création d’un site web complet pour Funkart**
+- 🌐 Site vitrine
+- 🛠️ Gestion du gardiennage
+- ⚙️ Backend & logique métier
+- 🎨 Interface moderne et responsive
+
+> Projet orienté **performance**, **fiabilité** et **expérience utilisateur**
 
 ---
 
 ## 📊 Statistiques GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dantr3b&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dantr3b&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dantr3b&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dantr3b&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
