@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Dantr3b
 
-🎓 Étudiant en informatique à **:contentReference[oaicite:0]{index=0}**  
+🎓 Étudiant en informatique à **Sophia ynov campus**  
 💻 Développeur passionné par le **web**, le **backend** et les **technologies modernes**  
 🏎️ Objectif : travailler dans la **tech appliquée au sport automobile**
 
